@@ -1,0 +1,13 @@
+1- pd.Series(mylist) 
+2- myseries[0]
+3- pd.Series(mylist, index=["x", "y", "z"])
+
+1- pd.DataFrame(data)
+2- df.loc[0]
+3- df.read_csv(data)
+4- df.to_string()
+5- df.read_json(data)
+6- pd.DataFrame(data)
+7- df.head(10)
+8- 5
+9- df.tail()
